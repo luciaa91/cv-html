@@ -27,8 +27,8 @@ body {
     display: flex;
     flex-direction: row;
     align-items: center;
-    gap: 20 rem;
-    width: 1150px;
+    gap: 20rem;
+    width: 1135px;
     font-family: raleway;
 }
 a {
